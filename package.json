@@ -1,0 +1,17 @@
+{
+  "name": "GlobalBroadcaster",
+  "version": "0.0.1",
+  "description": "Plugin for global broadcasting",
+  "cordova": {
+    "id": "cordova-plugin-globalbroadcaster",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "me",
+  "license": "Apache 2.0 License"
+}
